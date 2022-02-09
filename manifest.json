@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 1,
+    "name": "YouTubeEX",
+    "version": "1.0",
+  
+    "description": "Reimplements unnecissarily depricated features on YouTube.com.",
+  
+    
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+    
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["youtubeex.js"]
+      }
+    ]
+  
+  }
