@@ -17,3 +17,5 @@ You can test out our program and write your findings and thoughts in our [issues
 ## How Can I Submit My Code?
 
 Please make pull requests [here](https://github.com/ossd-sp22/YouTubeEX/pulls). Our team will try our best to review your code as quick as possible! 
+
+Please try keeping your edits as easy-to-read and simple as possible. 
