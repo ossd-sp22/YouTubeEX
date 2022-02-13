@@ -12,6 +12,8 @@ The main file you'll need to work on/edit is the [youtubeex.js](https://github.c
 
 No worries! We still greatly appreciate non-programming contributions such as bug reporting and new feature requests!
 
+If we like your suggestions, we may even put them in our main [README.md](https://github.com/ossd-sp22/YouTubeEX/blob/main/README.md) file.
+
 You can test out our program and write your findings and thoughts in our [issues page](https://github.com/ossd-sp22/YouTubeEX/issues). 
 
 ## How Can I Submit My Code?
