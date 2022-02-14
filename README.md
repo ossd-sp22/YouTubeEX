@@ -16,7 +16,7 @@ A Firefox plugin that makes [YouTube](https://youtube.com) *slightly* less distr
 To be added...
 
 ## Contributing Guidelines and Code of Conduct
-Interested in contributing to this add-on? Notice a bug that you want to fix? Review our projects [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to see how you can!
+Interested in contributing to this add-on? Notice a bug that you want to fix? Review our project's [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to see how you can!
 
 ## Liscense
 YouTubeEX uses the [Mozilla Public License 2.0](LICENSE)
