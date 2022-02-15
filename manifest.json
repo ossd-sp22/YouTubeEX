@@ -4,11 +4,11 @@
     "name": "YouTubeEX",
     "version": "1.0",
   
-    "description": "Reimplements unnecissarily depricated features on YouTube.com.",
+    "description": "Makes YouTube.com slightly less distracting.",
   
     
     "icons": {
-      "48": "icons/border-48.png"
+      "48": "icons/yt-icon.png"
     },
     
     "content_scripts": [
