@@ -18,3 +18,5 @@ document.getElementById("contents").style.visibility = "hidden";
 
 // Hides endscreen suggested videos 
 document.getElementsByClassName('html5-endscreen')[0].style.visibility = 'hidden';
+
+
