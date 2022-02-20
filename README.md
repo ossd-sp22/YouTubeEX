@@ -1,6 +1,8 @@
 # YouTubeEX
 
-A Firefox plugin that makes [YouTube](https://youtube.com) *slightly* less distracting.
+A browser plugin that makes [YouTube](https://youtube.com) *slightly* less distracting.
+
+Currently compatible with Chrome and Firefox.
 
 ## Focus Features
 * Hides the Youtube homepage, suggested feed, and end screen suggested videos so that you don't go down a YouTube rabbit-hole.
@@ -20,18 +22,27 @@ A Firefox plugin that makes [YouTube](https://youtube.com) *slightly* less distr
 3. run the following command:
 > git clone https://github.com/ossd-sp22/YouTubeEX
 
+### Loading YouTubeEX on Chrome
+1. Open the `chrome://extensions/` page in Chrome
+2. Click on the **Load unpacked** button on the top left corner
+3. Navigate to where you downloaded YouTubeEX in the previous section
+4. Select the **Chrome** folder in the directory
+
 ### Loading YouTubeEX on FireFox
 1. Open the `about:debugging` page in Firefox
 2. Navigate to the **This Firefox** tab on the sidebar
 3. Select **Load Temporary Add-on...**
 4. Navigate to where you downloaded YouTubeEX in the previous section
-5. Select any file in **YouTubeEX**
+5. Navigate to the **Firefox** folder in the directory
+6. Select any file in the **Firefox** directory
 
 You now have YouTubeEX installed in your browser!
 
 ### Troubleshooting 
 
-If you've properly installed YouTubeEX and are running into problems loading the extension in your browser, be sure to click **Reload** for YouTubeEX under Temporary Extensions.
+If you've properly installed YouTubeEX and are running into problems loading the extension in your browser, be sure to Reload the extension as a precautionary measure.
+
+In Firefox, this is done with the **Reload** button for YouTubeEX under Temporary Extensions.
 
 
 ## Contributing Guidelines and Code of Conduct
