@@ -14,16 +14,18 @@
 }
 
 /* Hides sidebar */
+/*
 #scrim{
     visibility: hidden;
-}
+}*/
 
+/* Hides sidebar */
 #guide{
     visibility: hidden;
 }
 
-/* Hides suggested videos on homepage */
-#contents{
+/* Hides suggested videos on homepage (desktop) */
+.ytd-browse[page-subtype ="home"]{
     visibility: hidden;
 }
 
@@ -33,7 +35,7 @@
 }
 
 /* Hides endscreen suggested videos */
-#html5-endscreen{
+.html5-endscreen{
     visibility: hidden;
 }
 
