@@ -39,3 +39,13 @@
     visibility: hidden;
 }
 
+/* Hides Notifications button */
+.ytd-notification-topbar-button-renderer{
+    visibility: hidden;
+}
+
+/* Hides YouTube Apps button */
+.button[aria-label= "YouTube apps"]{
+    visibility: hidden;
+}
+
