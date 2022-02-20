@@ -1,0 +1,39 @@
+/* Hides side pannel of suggested videos */
+#related{
+    visibility: hidden;
+}
+
+/* Hides comment section */
+#comments{
+    visibility: hidden;
+}
+
+/* Hides homepage button */
+#homepage{
+    visibility: hidden;
+}
+
+/* Hides sidebar */
+#scrim{
+    visibility: hidden;
+}
+
+#guide{
+    visibility: hidden;
+}
+
+/* Hides suggested videos on homepage */
+#contents{
+    visibility: hidden;
+}
+
+/* keeps search results*/
+.ytd-search{
+    visibility: visible !important;
+}
+
+/* Hides endscreen suggested videos */
+#html5-endscreen{
+    visibility: hidden;
+}
+
