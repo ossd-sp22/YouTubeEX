@@ -14,11 +14,8 @@
     "content_scripts": [
       {
         "matches": ["*://*.youtube.com/*"],
-        "js": ["youtubeex.js"],
-        "css": ["chrome.css"]
+        "js": ["youtubeex.js"]
       }
-    ],
-
-    "permissions": ["tabs", "browsingData"]
+    ]
   
   }
