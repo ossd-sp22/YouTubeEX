@@ -44,15 +44,20 @@
     visibility: hidden;
 }
 
-/* Hides Notifications button */
 
+/* Hides YouTube Apps button */
 ytd-topbar-menu-button-renderer:nth-of-type(2){
     visibility: hidden;
 }
 
-/* Hides YouTube Apps button */
-
+/* Hides Notifications button */
 ytd-notification-topbar-button-renderer {
+    visibility: hidden;
+}
+
+/* Hides Mini Guide Menu elements */
+/* - Hides everything except the Home button */
+ytd-mini-guide-entry-renderer:nth-of-type(n+2){
     visibility: hidden;
 }
 
