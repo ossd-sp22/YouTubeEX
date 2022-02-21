@@ -45,12 +45,14 @@
 }
 
 /* Hides Notifications button */
-.ytd-notification-topbar-button-renderer{
+
+ytd-topbar-menu-button-renderer:nth-of-type(2){
     visibility: hidden;
 }
 
 /* Hides YouTube Apps button */
-.button[aria-label= "YouTube apps"]{
+
+ytd-notification-topbar-button-renderer {
     visibility: hidden;
 }
 
